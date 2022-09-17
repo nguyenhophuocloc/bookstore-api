@@ -1,6 +1,8 @@
 APIs:
 
 Author:
+<br/>
+
 Add author:
 http://localhost:8000/v1/author/
 <br/>
@@ -21,14 +23,25 @@ Delete author:
 http://localhost:8000/v1/author/:id
 <br/>
 
-Book
-Add book
+Book:
+<br/>
+
+Add book:
 http://localhost:8000/v1/book/
-Get all books
+<br/>
+
+Get all books:
 http://localhost:8000/v1/book/
-Get book by id
+<br/>
+
+Get book by id:
 http://localhost:8000/v1/book/:id
-Update book
+<br/>
+
+Update book:
 http://localhost:8000/v1/book/:id
-Delete book
+<br/>
+
+Delete book:
 http://localhost:8000/v1/book/:id
+<br/>
