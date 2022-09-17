@@ -1,17 +1,25 @@
 APIs:
 
 Author:
-Add author
+Add author:
 http://localhost:8000/v1/author/
 <br/>
-Get all authors
+
+Get all authors:
 http://localhost:8000/v1/author/
-Get author by id
+<br/>
+
+Get author by id:
 http://localhost:8000/v1/author/:id
-Update author
+<br/>
+
+Update author:
 http://localhost:8000/v1/author/:id
-Delete author
+<br/>
+
+Delete author:
 http://localhost:8000/v1/author/:id
+<br/>
 
 Book
 Add book
