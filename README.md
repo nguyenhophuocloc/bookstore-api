@@ -3,6 +3,7 @@ APIs:
 Author:
 Add author
 http://localhost:8000/v1/author/
+<br/>
 Get all authors
 http://localhost:8000/v1/author/
 Get author by id
